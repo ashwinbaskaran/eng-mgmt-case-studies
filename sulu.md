@@ -6,7 +6,7 @@ Now a big new opportunity has opened with the US and other major governments wan
 Sulu expects that a knowledgeable engineer could complete the changes needed to support this new initiative in three months. An otherwise strong engineer lacking the domain experience would need at least another three months of training to build the expertise.
 
 # Challenge
-Three months have elapsed since the req was opened, and we are now exactly 6 months from the deadline to complete the work. Sulu has yet to find the right candidate. What should Sulu do? 
+Three months have elapsed since the req was opened, and we are now exactly six months from the deadline to complete the work. Sulu has yet to find the right candidate. What should Sulu do? 
 
 It seems like Sulu’s options are:
 - Hire the next strong engineer he can find (which may itself take some time) and move as fast as possible with the training.
