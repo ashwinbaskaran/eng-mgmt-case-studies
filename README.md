@@ -1,2 +1,2 @@
 # Engineering Management Case Studies
-This repo contains short case studies to prompt discussion, reflection, and learning about engineering management. The case studies are intentionally short, vague on specifics, and open to a variety of interpretations.
+This repo contains short case studies to prompt discussion, reflection, and learning about engineering management. The case studies are intentionally short, vague on specifics, and open to a variety of interpretations, so that they facilitate open-ended discussions that enourage thinking about the full space of potential solutions rather than anchor in on "correct" answers.
