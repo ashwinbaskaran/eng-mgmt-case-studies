@@ -9,6 +9,7 @@ Worf has just returned from a three month-long sabbatical. During his time off, 
 In their first meeting after Worf's return, she tells him how much she enjoyed the role and how she is now really interested in finding an engineering manager role. She likes the individuals on the team, likes the work, and likes the company. Troi would like to be an engineering manager, to stay with the Acme Apps team or at least Acme Corp, and she's earned the right to be supported in her professional development... but how many managers does a team of six need?
 
 # Discussion Prompts
+- How does the composition of the Acme Apps team influence your thinking?
 - What do you notice about the nature of Troi's test run as manager? How does that influence your thought process?
 - What could Worf have done earlier that might now help him?
 - What else do you want to know about Troi's motivations in pursuing this role? About her motivations in general?
