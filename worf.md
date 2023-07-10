@@ -1,5 +1,3 @@
-Case study on how to handle an IC aspiring to be a manager when the team/function/company doesn't currently need another manager.
-
 # Context
 Acme Corp is doing well! The startup builds decarbonization technology and has created the associated Carboni cryptocurrency to incentivize carbon capture. The Acme Apps team, led by their manager Worf, builds SDKs to accelerate the efforts of banks and governmental agencies to join the Carboni ecosystem. The team has grown organically through efforts to scale and replicate one-off integration efforts. The team of six engineers has a healthy mix of application development experts, blockchain enthusiasts, and policy experts, so they are able to quickly understand and implement any requirements. As a small team, every engineer carries a part of the load of talking directly with customers to understand the nitty-gritty of each integration project. The nature of this work has attracted a certain profile to the team: relatively senior, broadly knowledegable, independent, and motivated.
 
