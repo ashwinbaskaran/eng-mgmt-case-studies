@@ -5,10 +5,6 @@ Kathryn immediately recognizes the need to respond to the survey results. Her ob
 
 # Challenge
 How might Kathryn develop a solid understanding of the factors behind the survey results, given that the survey is anonymous?
-The challenges Kathryn faces include:
-- Presenting the survey results to the team without escalating concerns or creating a defensive environment.
-- Encouraging candid, productive discussions to uncover the underlying reasons behind the dissatisfaction.
-- Collaboratively devising and implementing a plan that addresses the issues while aligning with Acme's overall strategies and values.
 
 # Discussion Prompts
 - In the first place, why is it challenging?
