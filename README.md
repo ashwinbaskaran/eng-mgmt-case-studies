@@ -7,4 +7,4 @@ While the case studies could be used in any order, going in the following order 
 2. Worf
 3. Sisko
 4. Kathryn
-5. Malcolm (coming soon)
+5. Malcolm
