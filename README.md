@@ -3,8 +3,9 @@ This repo contains short case studies to prompt discussion, reflection, and lear
 
 # Sequence
 While the case studies could be used in any order, going in the following order may be helpful to build more context and eventually to richer interpretations and analyses.
-1. Sulu
-2. Worf
-3. Sisko
-4. Kathryn
-5. Malcolm
+1. [Sulu](1-sulu.md)
+2. [Worf](2-worf.md)
+3. [Sisko](3-sisko.md)
+4. [Kathryn](4-kathryn.md)
+5. [Malcolm](5-malcolm.md)
+6. [Michael](6-michael.md)
