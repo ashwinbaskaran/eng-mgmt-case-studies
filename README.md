@@ -9,3 +9,4 @@ While the case studies could be used in any order, going in the following order 
 4. [Kathryn](4-kathryn.md)
 5. [Malcolm](5-malcolm.md)
 6. [Michael](6-michael.md)
+7. [Laris](7-laris.md)
