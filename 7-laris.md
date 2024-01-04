@@ -16,5 +16,10 @@ How can Laris figure out what might be going on and help Starfleet make progress
 
 1. Make sure to consider issues along different axes: people, technical, and process.
 2. There are at least five stakeholders mentioned here. How might each of them be contributing to the problem? How might they contribute to a solution?
+   1. Laris
+   2. Jack
+   3. Elron
+   4. Agnes
+   5. Leadership
 
 [^1]: [Laris](https://en.wikipedia.org/wiki/Star_Trek:_Picard)
