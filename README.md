@@ -13,6 +13,7 @@ While the case studies could be used in any order, going in the following order 
 5. [Malcolm](5-malcolm.md)
 6. [Michael](6-michael.md)
 7. [Laris](7-laris.md)
+8. [Kira](8-kira.md)
 
 # Requests/Future
 1. Highly visible project with multiple stakeholders is raising alarms and breaking trust
