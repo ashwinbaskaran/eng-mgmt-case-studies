@@ -1,296 +1,67 @@
 # Worf Case Study: Student Guide
 
-## Purpose
-This guide will help you prepare for a productive discussion of the Worf case study. The goal is to develop your thinking about career development, creating growth opportunities within constraints, and designing team structures that serve both individual and organizational needs.
+## Overview
 
-## How to Use This Guide
+Worf manages the Acme Apps team of 6 senior, independent engineers. During Worf's 3-month sabbatical, Troi successfully acted as manager. Now she wants to become an engineering manager permanently, ideally staying with this team or at Acme. Worf must support Troi's development while maintaining team effectiveness—but how many managers does a 6-person team need?
 
-1. **Read the case study thoroughly** (2-worf.md)
-2. **Work through the reflection questions** below
-3. **Complete the decision framework** to organize your thinking
-4. **Come prepared** to discuss your perspectives and listen to others
+## Preparing for Discussion
 
----
+Consider these questions as you think about the case:
 
-## Case Study Overview
+**Understanding What Troi Wants**
 
-**Key Players:**
-- **Worf**: Manager of the Acme Apps team (6 engineers)
-- **Troi**: First engineer on the team, acted as manager during Worf's 3-month sabbatical
-- **The Acme Apps Team**: Senior, broadly knowledgeable, independent, intrinsically motivated engineers
+What did Troi experience during those three months that made her want to continue managing? Think beyond the title—what aspects of management work did she find rewarding?
 
-**The Situation:**
-After successfully managing the team during Worf's sabbatical, Troi expresses her desire to become an engineering manager. She wants to stay with the team or at Acme Corp. Worf must support her development while maintaining team effectiveness—but how many managers does a 6-person team need?
+Troi "likes the work" of management. What does that mean? What specific activities or responsibilities resonated with her? What impact was she able to have?
 
----
+Why does staying with this team or company matter to Troi? Consider relationships, domain knowledge, cultural fit, and context.
 
-## Pre-Discussion Reflection Questions
+**The Structural Challenge**
 
-### Understanding Troi's Perspective
+Why is having two managers for six engineers potentially problematic? Think about efficiency, role clarity, team dynamics, and career progression for both managers.
 
-1. **What did Troi likely experience during the sabbatical?**
-   - What responsibilities did she take on?
-   - What did she learn about herself?
-   - What was rewarding about the role?
+The team is described as "senior, broadly knowledgeable, independent, intrinsically motivated." How does this composition affect what's possible? Do these engineers need much hands-on management? Could this team structure work differently than traditional teams?
 
-2. **What might "likes the work" mean for management?**
-   - Specific aspects she enjoyed
-   - Skills she discovered or developed
-   - Impact she was able to have
+**Exploring Options Beyond the Binary**
 
-3. **Why does Troi want to stay with this team or company?**
-   - Relationships and connections
-   - Cultural fit
-   - Domain knowledge and context
+If splitting into two 3-person teams seems impractical, what else might work? Consider team restructuring, new opportunities within the organization, hybrid roles, or even external opportunities with company support.
 
-### Understanding Worf's Challenge
+What if there's enough work coming to justify growth? What if the team is likely to expand to 10 or 12 people? How does that change the thinking?
 
-4. **What are Worf's competing responsibilities?**
-   - To Troi as an individual
-   - To the team as a whole
-   - To the organization
-   - To the work itself
+Could some of what Troi wants be available without the full manager title? What's the difference between a tech lead role and an engineering manager role in this context?
 
-5. **Why is a 6-person team with 2 managers potentially problematic?**
-   - Efficiency and overhead
-   - Role clarity and authority
-   - Team dynamics
-   - Career progression for both managers
+**What Should Have Happened Earlier**
 
-6. **What are the constraints Worf is operating within?**
-   - Team size
-   - Company structure
-   - Immediate availability of other opportunities
-   - Time (Troi's expectations and timeline)
+Should Worf have had conversations with Troi before taking sabbatical? Should there have been an understanding about what the acting role meant?
 
-### Exploring Options
+At what point during the sabbatical should succession planning have been discussed? What would good succession planning look like?
 
-7. **What creative options might exist beyond the obvious?**
-   - Team restructuring
-   - New opportunities within the organization
-   - Hybrid roles
-   - External opportunities with company support
+**The Organizational Context**
 
-8. **How does team composition influence the options?**
-   - "Relatively senior, broadly knowledgeable, independent, intrinsically motivated"
-   - What does this profile tell us about what might work?
+If no immediate manager role is available for Troi, how long is reasonable to ask her to wait? What would make waiting worthwhile versus frustrating?
 
----
+Is Acme growing? Are other teams forming? What opportunities might emerge in the next 6-12 months?
 
-## Decision Framework
+## Questions to Explore
 
-Use this framework to organize your analysis:
+What pressures is Worf experiencing from different directions? What responsibilities does Worf have to Troi, to the team, to the organization?
 
-### Option 1: Split the Team (Create Two 3-Person Teams)
+If you were on the Acme Apps team, how would you feel about potential restructuring? What would you want to know?
 
-**Pros:**
--
--
--
+From leadership's perspective, what matters most here? How might they be able to help create options?
 
-**Cons:**
--
--
-
-**Feasibility:**
-- Is there enough work to justify two teams?
-- Do customer relationships split cleanly?
-- Can 3-person teams be effective for this type of work?
-
-**Impact on Team Members:**
--
-
----
-
-### Option 2: Find Troi Another Team to Manage
-
-**Pros:**
--
--
--
-
-**Cons:**
--
--
-
-**Questions:**
-- Are there other teams available?
-- Would Troi need to leave Apps domain?
-- How long might this take?
-
-**Impact on Troi:**
--
-
----
-
-### Option 3: Create a Hybrid or New Role for Troi
-
-**Pros:**
--
--
--
-
-**Cons:**
--
--
-
-**Possibilities:**
-- Tech lead with some management responsibilities
-- Manager of a new initiative/project
-- Engineering manager for a different scope (cross-team, platform, etc.)
-
----
-
-### Option 4: (Your Alternative Approach)
-
-**Description:**
--
-
-**Pros:**
--
--
-
-**Cons:**
--
--
-
-**Feasibility:**
--
-
----
-
-## Stakeholder Analysis
-
-| **Stakeholder** | **What They Need** | **What They Care About** | **How They're Impacted** |
-|-----------------|-------------------|-------------------------|--------------------------|
-| Troi | | | |
-| Worf | | | |
-| Team Members | | | |
-| Organization/Leadership | | | |
-| Customers | | | |
-
----
-
-## Perspective Considerations
-
-As you prepare for discussion, consider these different lenses:
-
-### 🔧 **Technical Perspective**
-- What type of work does the team do?
-- How does team structure affect technical delivery?
-- Does the work lend itself to subdivision?
-
-### 👥 **People Management Perspective**
-- Career development and growth paths
-- Motivation and retention
-- Team dynamics and relationships
-
-### 🏢 **Organizational Perspective**
-- Company growth trajectory
-- Internal mobility and development culture
-- Efficient organizational design
-
-### 📊 **Business Perspective**
-- Customer relationships and delivery
-- Team productivity and efficiency
-- Cost of management overhead
-
----
-
-## Critical Questions to Explore
-
-**About Troi's Motivation:**
-- What specifically does Troi want from a management role?
-- Is it the title, the responsibilities, the impact, or something else?
-- What if some of what she wants is available without the full manager title?
-
-**About Team Composition:**
-- How does having "senior, independent, intrinsically motivated" engineers change the options?
-- Do these engineers need much management?
-- Could this team operate differently than traditional teams?
-
-**About What Worf Could Have Done Earlier:**
-- Should Worf have had conversations before taking sabbatical?
-- Should there have been an understanding about what the acting role meant?
-- What succession planning should exist?
-
-**About Growth Scenarios:**
-- What if the team is likely to grow? Does that change things?
-- What if the company is growing? Are there other opportunities emerging?
-- What if neither is growing?
-
----
-
-## Timeline and Decision Framework
-
-**Short-term (Next 2-4 weeks):**
-- What conversations need to happen?
-- What information does Worf need to gather?
-
-**Medium-term (Next 2-3 months):**
-- What realistic options could be created?
-- What would need to change organizationally?
-
-**Long-term (6-12 months):**
-- What does success look like for Troi?
-- What does the team structure look like?
-
----
-
-## Questions to Bring to Discussion
-
-Write down 2-3 questions you'd like to explore with the group:
-
-1.
-
-2.
-
-3.
-
----
+What does "success" look like in this situation? Success for Troi? For the team? For the organization?
 
 ## Personal Reflection
 
-Before the session, consider:
+Have you ever wanted a promotion or role that wasn't immediately available? What happened? What did you learn?
 
-**Have you ever wanted a promotion or role that wasn't immediately available? What happened?**
+How have you seen managers balance individual development with organizational constraints?
 
+What would you want if you were Troi? What would you do if you were Worf?
 
-**How have you seen managers balance individual development with organizational needs?**
+## For Discussion
 
+Think about: What should Worf do now? What creative options might exist? How can organizations better handle situations where talented people discover management skills in acting roles?
 
-**What would you want if you were Troi? What would you do if you were Worf?**
-
-
----
-
-## Discussion Preparation Checklist
-
-- [ ] Read the case study completely
-- [ ] Considered Troi's perspective and motivations
-- [ ] Identified constraints and opportunities
-- [ ] Analyzed at least 2-3 potential options
-- [ ] Thought about team composition and how it affects options
-- [ ] Considered what Worf could have done earlier
-- [ ] Reflected on growth scenarios and their implications
-- [ ] Prepared questions for group discussion
-- [ ] Ready to listen to perspectives different from my own
-
----
-
-## Notes Space
-
-Use this space for any additional thoughts, observations, or questions:
-
-
-
-
-
-
-
-
-
-
----
-
-*Remember: There is no single "right answer" to this case. The goal is to develop your judgment, consider multiple perspectives, and learn from collective discussion.*
+Remember: There's no single "right answer." The goal is to develop your judgment and learn from exploring different perspectives together.

@@ -1,345 +1,75 @@
 # Kathryn Case Study: Student Guide
 
-## Purpose
-This guide will help you prepare for a productive discussion of the Kathryn case study. The goal is to develop your thinking about retention strategies, responding to anonymous feedback, and the importance of proactive relationship-building with team members.
+## Overview
 
-## How to Use This Guide
+Kathryn manages the BetaTech team, which created a framework that delivers central bank integrations at 10x speed. An anonymous company survey reveals that some engineers on the team are considering leaving Acme within the next year. Kathryn needs to understand why and develop a retention plan—but the survey is anonymous.
 
-1. **Read the case study thoroughly** (4-kathryn.md)
-2. **Work through the reflection questions** below
-3. **Complete the decision framework** to organize your thinking
-4. **Come prepared** to discuss your perspectives and listen to others
+## Preparing for Discussion
 
----
+Consider these questions as you think about the case:
 
-## Case Study Overview
+**Understanding the Challenge**
 
-**Key Players:**
-- **Kathryn**: Manager of the BetaTech team
-- **The BetaTech Team**: Created a framework that delivers new central bank integrations at 10x speed
-- **Anonymous Respondents**: A few engineers who indicated they might leave within a year
+Why is anonymity challenging for Kathryn? What does she need to know that anonymity obscures? What are the advantages and disadvantages of anonymous surveys?
 
-**The Situation:**
-An anonymous company survey reveals that some engineers on Kathryn's team are considering leaving Acme within the next year. Kathryn needs to understand the underlying reasons and develop a retention plan, but the survey is anonymous.
+What might cause engineers to consider leaving? Think beyond compensation—career growth, work-life balance, team dynamics, type of work, management quality, company direction, external opportunities. What's most common? What's hardest to address?
 
----
+Why is losing "a few engineers" particularly concerning for a team like BetaTech? Consider team size, knowledge concentration, morale impact, and replacement costs.
 
-## Pre-Discussion Reflection Questions
+**Responding Without Violating Anonymity**
 
-### Understanding the Challenge
+Should Kathryn share the survey results with the team? What are the benefits of transparency? What are the risks? How might different people react?
 
-1. **Why is anonymity challenging for Kathryn?**
-   - What does she need to know that anonymity obscures?
-   - What are the advantages of anonymous surveys?
-   - What are the disadvantages?
+How can Kathryn investigate without trying to identify who responded what? What approaches respect the intent of anonymous surveys? What crosses the line?
 
-2. **What might cause engineers to consider leaving?**
-   - Career growth and development
-   - Compensation and benefits
-   - Work-life balance
-   - Team dynamics and culture
-   - Type of work
-   - Management and leadership
-   - Company direction
-   - External opportunities
+Consider different investigation methods: 1:1 conversations with everyone, team retrospective, anonymous follow-up survey, analyzing other survey data for patterns. What information does each provide? What are the risks? When is each most useful?
 
-3. **Why is "a few engineers" particularly concerning?**
-   - Team size implications
-   - Knowledge and skill concentration
-   - Impact on team morale
-   - Recruitment and replacement costs
+**Individual vs. Team Conversations**
 
-### Understanding Possible Responses
+When are 1:1s more appropriate? When is team discussion better? Could both be valuable? In what sequence?
 
-4. **Should Kathryn share the survey results with the team?**
-   - What are the pros of transparency?
-   - What are the cons?
-   - How might different people react?
+If Kathryn does 1:1s with everyone, how can she frame the conversation so it doesn't feel like an investigation? What questions would build trust versus create suspicion?
 
-5. **How can Kathryn investigate without violating anonymity?**
-   - What approaches respect the intent of anonymous surveys?
-   - What crosses the line into trying to identify individuals?
-   - How can she gather information ethically?
+**What Should Have Been Happening**
 
-6. **Individual vs. team conversations: what's the difference?**
-   - When are 1:1s more appropriate?
-   - When is team discussion more appropriate?
-   - Could both be valuable? In what sequence?
+What should Kathryn have been doing before this survey? Think about regular 1:1 practices, career development conversations, team health pulse checks, psychological safety.
 
-### Understanding Prevention
+How can you know if team members are unhappy before they're considering leaving? What are leading indicators versus lagging indicators?
 
-7. **What should Kathryn have been doing before the survey?**
-   - Regular 1:1 practices
-   - Career development conversations
-   - Pulse checks on team health
-   - Creating psychological safety
+What does it mean to build relationships that enable honesty? How do you create channels for feedback that people actually use?
 
-8. **How can you know if your team members are unhappy before they're considering leaving?**
-   - Leading indicators vs. lagging indicators
-   - Building relationships that enable honesty
-   - Creating channels for feedback
+**Potential Root Causes**
 
----
+If the issue is career growth, what might that look like and how could Kathryn address it? If it's work-life balance? Compensation? Team dynamics? Type of work? Management quality?
 
-## Decision Framework
+For each potential cause, think about: What evidence would point to this? What's within Kathryn's control? What needs organizational support?
 
-Use this framework to organize your analysis:
+**Survey Context**
 
-### Immediate Response Options
+What other questions were in the survey? How might cross-referencing answers provide insight? Are there patterns in responses?
 
-**Option 1: Direct 1:1 Conversations with Each Team Member**
+How does BetaTech compare to other teams company-wide? What can Kathryn learn from teams with better retention signals?
 
-**Approach:**
--
+What exactly did the survey ask? "Might consider leaving" is very different from "actively interviewing." "Within a year" is different from "in the next few months."
 
-**Pros:**
--
--
+## Questions to Explore
 
-**Cons:**
--
--
+What are the leading indicators that Kathryn should start watching for? What would suggest her efforts are working?
 
-**Risk:**
-- Could feel like trying to identify respondents
+If efforts don't work and people do leave, what should Kathryn do? How can exit interviews inform retention strategies?
 
----
-
-**Option 2: Team Discussion About Survey Results**
-
-**Approach:**
--
-
-**Pros:**
--
--
-
-**Cons:**
--
--
-
-**Risk:**
-- Some people may not speak up in group setting
-
----
-
-**Option 3: Anonymous Follow-up Survey**
-
-**Approach:**
--
-
-**Pros:**
--
--
-
-**Cons:**
--
--
-
-**Risk:**
-- More surveys without action can reduce trust
-
----
-
-**Option 4: (Your Alternative Approach)**
-
-**Description:**
--
-
-**Pros:**
--
--
-
-**Cons:**
--
--
-
----
-
-## Investigation Strategy Matrix
-
-| **Method** | **Information Gained** | **Risks** | **Best For** |
-|------------|----------------------|----------|--------------|
-| 1:1 conversations | | | |
-| Team retrospective | | | |
-| Anonymous follow-up | | | |
-| Survey data analysis | | | |
-| Skip-level meetings | | | |
-| Exit interviews (if anyone leaves) | | | |
-
----
-
-## Root Cause Exploration
-
-**If the issue is career growth:**
-- What might that look like?
-- How could Kathryn address it?
-
-**If the issue is work-life balance:**
-- What might that look like?
-- How could Kathryn address it?
-
-**If the issue is compensation:**
-- What might that look like?
-- How could Kathryn address it?
-
-**If the issue is team dynamics:**
-- What might that look like?
-- How could Kathryn address it?
-
-**If the issue is type of work:**
-- What might that look like?
-- How could Kathryn address it?
-
----
-
-## Perspective Considerations
-
-As you prepare for discussion, consider these different lenses:
-
-### 🔧 **Technical Perspective**
-- What technical challenges might be causing frustration?
-- Is the work interesting and growth-oriented?
-- Are engineers able to learn and develop skills?
-
-### 👥 **People Management Perspective**
-- Quality of relationships with manager
-- Career development and progression
-- Recognition and appreciation
-- Psychological safety and trust
-
-### 🏢 **Organizational Perspective**
-- Company culture and values
-- Internal mobility and growth opportunities
-- Organizational changes or uncertainty
-- Comparison to peer companies
-
-### 📊 **Business Perspective**
-- Competitive compensation
-- Market opportunities for engineers
-- Cost of turnover and replacement
-- Impact on team performance
-
----
-
-## Proactive Management Checklist
-
-**What Kathryn should have been doing (and should start doing):**
-
-**Regular 1:1s:**
-- [ ] Scheduled consistently (not cancelled frequently)
-- [ ] Focused on the person, not just project status
-- [ ] Include career development discussions
-- [ ] Create space for concerns and feedback
-
-**Career Development:**
-- [ ] Understand each person's goals and aspirations
-- [ ] Create development plans
-- [ ] Provide growth opportunities
-- [ ] Discuss progression regularly
-
-**Team Health:**
-- [ ] Monitor for signs of burnout or dissatisfaction
-- [ ] Address conflicts early
-- [ ] Celebrate successes
-- [ ] Build psychological safety
-
-**Transparency:**
-- [ ] Share company direction and changes
-- [ ] Explain decisions that affect the team
-- [ ] Be honest about challenges
-- [ ] Involve team in appropriate decisions
-
----
-
-## Survey Analysis Questions
-
-**What other questions were in the survey?**
-- How can cross-referencing answers provide insight?
-- Are there patterns in responses?
-- Do responses correlate with tenure, role, or other factors?
-
-**What does company-wide data show?**
-- Is BetaTech team an outlier or consistent with company?
-- What can Kathryn learn from teams with better retention signals?
-
-**What are the exact questions and response options?**
-- "Might consider leaving" vs. "actively looking" vs. "definitely leaving"
-- Within next year vs. next 6 months vs. already interviewing
-
----
-
-## Success Metrics
-
-**How can Kathryn know if her efforts are working?**
-
-**Leading Indicators (Short-term):**
--
--
-
-**Lagging Indicators (Long-term):**
--
--
-
-**What if efforts don't work?**
--
-
----
-
-## Questions to Bring to Discussion
-
-Write down 2-3 questions you'd like to explore with the group:
-
-1.
-
-2.
-
-3.
-
----
+How do you balance respecting anonymity with taking action? Is there a way to address issues broadly without making it feel performative?
 
 ## Personal Reflection
 
-Before the session, consider:
+Have you ever considered leaving a job? What made you think about it? What might have changed your mind?
 
-**Have you ever considered leaving a job? What made you think about it?**
+What would make you feel comfortable being honest with your manager about being unhappy? What would make you shut down?
 
+If you were on Kathryn's team, how would you want her to respond to this survey? What would feel genuine versus concerning?
 
-**What would make you feel comfortable being honest with your manager about being unhappy?**
+## For Discussion
 
+Think about: What should Kathryn do now? What should she have been doing all along? How can managers create environments where people raise concerns before they're planning to leave?
 
-**If you were on Kathryn's team, how would you want her to respond to this survey?**
-
-
----
-
-## Discussion Preparation Checklist
-
-- [ ] Read the case study completely
-- [ ] Considered why anonymity makes this challenging
-- [ ] Brainstormed possible reasons engineers might leave
-- [ ] Analyzed different investigation approaches
-- [ ] Thought about team vs. individual conversations
-- [ ] Reflected on prevention strategies
-- [ ] Considered what Kathryn should have done earlier
-- [ ] Prepared questions for group discussion
-- [ ] Ready to listen to perspectives different from my own
-
----
-
-## Notes Space
-
-Use this space for any additional thoughts, observations, or questions:
-
-
-
-
-
-
-
-
-
-
----
-
-*Remember: There is no single "right answer" to this case. The goal is to develop your judgment, consider multiple perspectives, and learn from collective discussion.*
+Remember: There's no single "right answer." The goal is to develop your judgment and learn from exploring different perspectives together.

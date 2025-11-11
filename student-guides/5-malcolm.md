@@ -1,230 +1,71 @@
 # Malcolm Case Study: Student Guide
 
-## Purpose
-This guide will help you prepare for a productive discussion of the Malcolm case study. The goal is to develop your thinking about post-acquisition integration, technical leadership, and conflict resolution in engineering organizations.
+## Overview
 
-## How to Use This Guide
+Malcolm is Head of Engineering at Acme Corp, which recently acquired Apex. Critical data integration issues are affecting customers, including central banks. Hoshi, a senior engineer from Apex who led Flash development, is working on the problem. Trip, who built the original Gorilla component at Acme, wants "full authority" before helping. Hoshi feels bringing in Trip signals a lack of trust. Malcolm must resolve both the technical crisis and the interpersonal tension.
 
-1. **Read the case study thoroughly** (5-malcolm.md)
-2. **Work through the reflection questions** below
-3. **Complete the decision framework** to organize your thinking
-4. **Come prepared** to discuss your perspectives and listen to others
+## Preparing for Discussion
 
----
+Consider these questions as you think about the case:
 
-## Case Study Overview
+**Understanding the Technical Context**
 
-**Key Players:**
-- **Malcolm**: Head of Engineering at Acme Corp
-- **Hoshi**: Senior engineer from Apex (acquired company), led Flash development
-- **Trip**: Original Carboni engineer who built Gorilla component
-- **The Teams**: Acme (original) and Apex (acquired) engineers
+What led to these critical problems? Think about both technical factors (integration complexity, testing, code review) and organizational factors (acquisition dynamics, team coordination, knowledge sharing).
 
-**The Situation:**
-A critical data integration issue is affecting customers, including central banks. Malcolm must decide how to resolve it amid tension between two engineers with different perspectives and history with the codebase.
+Why wasn't the problem caught earlier? What might have prevented these issues from reaching production and affecting central banks?
 
----
+**Understanding Each Person's Perspective**
 
-## Pre-Discussion Reflection Questions
+Put yourself in Hoshi's shoes. Why might bringing in Trip feel like a vote of no confidence? What has Hoshi's experience been since the acquisition? What might the Apex team be experiencing? What does Hoshi need to hear or experience right now?
 
-### Understanding the Technical Context
+Put yourself in Trip's shoes. Why might Trip want "full authority" before getting involved? What concerns might Trip have about the current situation? Is Trip's position reasonable? What might Trip be trying to protect or prevent?
 
-1. **What led to the current technical problems?**
-   - List the factors that contributed to the integration issues
-   - Consider both technical and organizational factors
+Put yourself in Malcolm's shoes. What pressures is Malcolm facing? What are the responsibilities to the team, the customers, and the company? What precedents might this decision set for future collaboration?
 
-2. **Why wasn't the problem caught earlier?**
-   - What might have prevented these issues from reaching production?
-   - What role did testing, code review, or collaboration play?
+**Beyond the Binary Choice**
 
-### Understanding the People Dynamics
+If neither "give Trip full authority" nor "keep it all with Hoshi" seems right, what other options exist? Think creatively about collaborative models, not just individual ownership.
 
-3. **Put yourself in Hoshi's shoes:**
-   - Why might Hoshi feel that bringing in Trip signals a lack of trust?
-   - What has Hoshi's experience been since the acquisition?
-   - What might Hoshi need to hear or experience right now?
+Could both engineers work together? What would that require? What might make collaboration difficult given the current tension?
 
-4. **Put yourself in Trip's shoes:**
-   - Why might Trip want "full authority" before getting involved?
-   - What concerns might Trip have about the current situation?
-   - Is Trip's position reasonable? Why or why not?
+**Short-term vs. Long-term Thinking**
 
-5. **Put yourself in Malcolm's shoes:**
-   - What pressures is Malcolm facing?
-   - What are his responsibilities to the team, the customers, and the company?
-   - What precedents might Malcolm's decision set?
+What needs to happen immediately to fix the customer-impacting bug? What about medium-term team dynamics and morale? What about long-term technical practices and culture?
 
-### Exploring Options
+If Malcolm optimizes only for the immediate fix, what might that cost in terms of team dynamics? If Malcolm optimizes only for team harmony, what are the risks to customers?
 
-6. **Beyond Hoshi or Trip, what other options might Malcolm consider?**
-   - Think creatively about different approaches
-   - Consider collaborative models, not just individual ownership
+**Root Causes**
 
-7. **What are the short-term vs. long-term considerations?**
-   - Immediate: Fixing the customer-impacting bug
-   - Medium-term: Team dynamics and morale
-   - Long-term: Technical practices and culture
+Work backward from the crisis. Critical bugs in production—why? Integration issues with Gorilla—why? Hoshi and Trip not collaborating—why? Apex team working in isolation—why? Acquisition integration challenges—why?
 
----
+For each "why," what could have prevented it? What should have happened during the acquisition? What should be happening now?
 
-## Decision Framework
+**What Should Have Happened**
 
-Use this framework to organize your analysis:
+What should the acquisition integration process have included? How should technical systems be integrated? How should teams be integrated? How should knowledge be shared?
 
-### Option 1: Give Trip Full Authority
+What role should Malcolm have played earlier in bringing teams together? What systems or processes should have been in place?
 
-**Pros:**
--
--
--
+## Questions to Explore
 
-**Cons:**
--
--
+What does "full authority" mean to Trip? What is Trip really asking for? What concerns is that request masking?
 
-**Impact on Hoshi:**
--
+What would make Hoshi feel trusted and supported while also getting the help needed?
 
-**Impact on Team:**
--
+How can Malcolm address both the technical crisis and the trust issues? Must they be sequential or can they be parallel?
 
-**Impact on Customers:**
--
-
----
-
-### Option 2: Keep It with Hoshi
-
-**Pros:**
--
--
--
-
-**Cons:**
--
--
-
-**Impact on Trip:**
--
-
-**Impact on Team:**
--
-
-**Impact on Customers:**
--
-
----
-
-### Option 3: (Your Alternative Approach)
-
-**Description:**
--
-
-**Pros:**
--
--
-
-**Cons:**
--
--
-
-**Impact on Stakeholders:**
--
-
----
-
-## Root Cause Analysis
-
-Work backward from the current crisis:
-
-| **What Happened** | **Why Did It Happen?** | **What Could Have Prevented It?** |
-|-------------------|------------------------|-----------------------------------|
-| Critical bugs in production | | |
-| Integration issues with Gorilla | | |
-| Hoshi and Trip not collaborating | | |
-| Apex team working in isolation | | |
-| Acquisition integration challenges | | |
-
----
-
-## Perspective Considerations
-
-As you prepare for discussion, consider these different lenses:
-
-### 🔧 **Technical Perspective**
-- Code quality and architectural decisions
-- Technical debt and refactoring
-- Testing and deployment practices
-
-### 👥 **People Management Perspective**
-- Trust and psychological safety
-- Career development and growth
-- Recognition and ownership
-
-### 🏢 **Organizational Perspective**
-- Post-acquisition integration
-- Cross-team collaboration
-- Engineering culture and values
-
-### 📊 **Business Perspective**
-- Customer impact and trust
-- Risk management
-- Velocity vs. quality tradeoffs
-
----
-
-## Questions to Bring to Discussion
-
-Write down 2-3 questions you'd like to explore with the group:
-
-1.
-
-2.
-
-3.
-
----
+What precedent does this set? How will Malcolm's decision affect future cross-team collaboration and acquisition integrations?
 
 ## Personal Reflection
 
-Before the session, consider:
+What challenges you most about this case? Is it the technical crisis, the interpersonal dynamics, or the organizational complexity?
 
-**What challenges you most about this case?**
+Have you experienced or witnessed similar situations? What happened? What worked or didn't work?
 
+If you were Hoshi or Trip, what would you want Malcolm to know? What would you want Malcolm to do?
 
-**What similar situations have you experienced or witnessed?**
+## For Discussion
 
+Think about: What should Malcolm do now? What should have been done differently during and after the acquisition? How can organizations better integrate acquired teams and prevent these dynamics?
 
-**What would you want Malcolm to know if you were in Hoshi's or Trip's position?**
-
-
----
-
-## Discussion Preparation Checklist
-
-- [ ] Read the case study completely
-- [ ] Identified key stakeholders and their perspectives
-- [ ] Analyzed at least 2-3 potential options for Malcolm
-- [ ] Considered both immediate and long-term implications
-- [ ] Reflected on similar experiences from my own work
-- [ ] Prepared questions for group discussion
-- [ ] Ready to listen to perspectives different from my own
-
----
-
-## Notes Space
-
-Use this space for any additional thoughts, observations, or questions:
-
-
-
-
-
-
-
-
-
-
----
-
-*Remember: There is no single "right answer" to this case. The goal is to develop your judgment, consider multiple perspectives, and learn from collective discussion.*
+Remember: There's no single "right answer." The goal is to develop your judgment and learn from exploring different perspectives together.
